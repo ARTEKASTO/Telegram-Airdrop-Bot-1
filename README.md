@@ -57,7 +57,7 @@ The **Telegram Airdrop Bot** 💰 helps you to manage your airdrops on ERC-20, B
 1. Run the bot `python main.py`
 
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/mujadmani/Easy-Telegram-Airdrop-Bot"> <https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku img src="><" width="220" height="38.45"/></a>
+<p><a href="https://heroku.com/deploy?template=https://github.com/mujadmani/Easy-Telegram-Airdrop-Bot"> <https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku img src="><" width="220" height="38.45"/></a> 
 
 ## Images
 ![Telegram Airdrop Bot](https://github.com/fabston/Telegram-Airdrop-Bot/blob/main/assets/about.jpg?raw=true)
