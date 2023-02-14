@@ -35,6 +35,8 @@ The **Telegram Airdrop Bot** 💰 helps you to manage your airdrops on ERC-20, B
 - Enable / disable the airdrop
 - Admins can export the airdrop list by command (`/airdroplist`)
 
+
+
 > 💡 Got a feature idea? Open an [issue](https://github.com/fabston/Telegram-Airdrop-Bot/issues/new?assignees=&labels=enhancement&template=feature-request---.md) and I might implement it.
 
 
@@ -56,6 +58,8 @@ The **Telegram Airdrop Bot** 💰 helps you to manage your airdrops on ERC-20, B
 1. Edit and update [`config.py`](https://github.com/fabston/Telegram-Airdrop-Bot/blob/master/config.py)
 1. Run the bot `python main.py`
 
+
+<p><a href="https://heroku.com/deploy?template=https://github.com/mujadmani/Easy-Telegram-Airdrop-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## Images
 ![Telegram Airdrop Bot](https://github.com/fabston/Telegram-Airdrop-Bot/blob/main/assets/about.jpg?raw=true)
